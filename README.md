@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunanda123&label=Profile%20views&color=0e75b6&style=flat" alt="sunanda123" /> </p>
 
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **ssunanda02@gmail.com**
 
