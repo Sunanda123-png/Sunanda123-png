@@ -7,10 +7,8 @@
 
 
 - 🌱 I’m currently learning **Machine Learning**
-- <img align="right" src="<iframe src="https://giphy.com/embed/p4NLw3I4U0idi" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/programmer-p4NLw3I4U0idi">via GIPHY</a></p> />
-
 - 📫 How to reach me **ssunanda02@gmail.com**
-
+<iframe src="https://giphy.com/embed/p4NLw3I4U0idi" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sunanda shil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sunanda shil" height="30" width="40" /></a>
