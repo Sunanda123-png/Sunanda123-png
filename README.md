@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sunanda shil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sunanda shil" height="30" width="40" /></a>
 <a href="https://fb.com/sunandashil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sunandashil" height="30" width="40" /></a>
-<a href="https://instagram.com/sono1110" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sono1110" height="30" width="40" /></a>
+<a href="https://instagram.com/sono1110" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sono1110" height="30" width="40" color="blue" /></a>
 <a href="https://www.hackerrank.com/ssunanda02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ssunanda02" height="30" width="40" /></a>
 </p>
 
