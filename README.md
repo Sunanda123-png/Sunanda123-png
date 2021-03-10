@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sunanda Shil</h1>
+<h1 align="center">Hi there👋</h1>
+<p align="left">Hi, I'm Sunanda Shil, a passionate self-taught Python developer and a  software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</p>
+<p align="left">I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
 <h3 align="center">A passionate Python developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunanda123&label=Profile%20views&color=0e75b6&style=flat" alt="sunanda123" /> </p>
